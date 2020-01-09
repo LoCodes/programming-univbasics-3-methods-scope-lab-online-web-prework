@@ -2,8 +2,8 @@ any_phrase = "phrase"
 
 phrase = 
 
-def mario(phrase)
-  toadstool(phrase)
+def mario("It's-a me, Mario!")
+  toadstool()
   any_phrase(phrase)
 end
   
