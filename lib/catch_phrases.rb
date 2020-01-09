@@ -1,2 +1,3 @@
 def anyphrase(phrase)
-  puts 
+  puts"Do A Barrel Roll!\n"
+end
