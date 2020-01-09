@@ -4,7 +4,7 @@ phrase =
 
 def mario("It's-a me, Mario!")
   toadstool("Thank You Mario! But Our Princess Is In Another Castle!")
-  any_phrase("puts out 'It's Dangerous To Go Alone! Take This.")
+  link("puts out 'It's Dangerous To Go Alone! Take This.")
 end
   
 
