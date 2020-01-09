@@ -1,5 +1,7 @@
 any_phrase = "phrase"
 
+phrase = 
+
 def mario(phrase)
   toadstool(phrase)
   any_phrase(phrase)
