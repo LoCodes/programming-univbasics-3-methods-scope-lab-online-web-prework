@@ -18,7 +18,3 @@ def toadstool
 end
 
 
-def any_phrase
-  puts "takes in an argument and puts out the catchphrase” 
-  phrase = "Do A Barrel Roll!” 
-end 
