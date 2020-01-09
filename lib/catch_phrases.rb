@@ -3,7 +3,7 @@ any_phrase = "phrase"
 phrase = 
 
 def mario("It's-a me, Mario!")
-  toadstool()
+  toadstool("Thank You Mario! But Our Princess Is In Another Castle!")
   any_phrase(phrase)
 end
   
