@@ -14,8 +14,8 @@ end
 'Thank You Mario! But Our Princess Is In Another Castle!'
 
 def toadstool
-  phrase = 
-  puts status
+  phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts phrase
 end
 
 
